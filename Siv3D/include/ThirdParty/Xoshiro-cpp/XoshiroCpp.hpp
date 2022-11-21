@@ -27,6 +27,7 @@
 
 # pragma once
 # include <cstdint>
+# include <cstddef>
 # include <array>
 # include <limits>
 # include <type_traits>
